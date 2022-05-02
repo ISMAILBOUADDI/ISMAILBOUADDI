@@ -7,7 +7,7 @@ I'am Self-taught developer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=ISMAILBOUADDI&color=dc143c)" alt="ISMAIL" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ISMAILBOUADDI&color=dc143c" alt="ISMAIL" /> </p>
 
 ### My stats
 
